@@ -12,6 +12,7 @@ If the user guesses the secret number correctly, the message "Correct Number!" i
 * If the user correctly guesses the secret number, the game will provide a winning message and update the high score.
 * If the user is unable to guess the secret number within the 20 attempts, the game will provide a losing message.
 
+&emsp; **You can play the game here:** https://rb.gy/lvzwql
 
 ## Built With
 * HTML5
